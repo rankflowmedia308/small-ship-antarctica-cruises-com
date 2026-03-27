@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="4" fill="#0B1F3A"/>
+  <!-- Ship hull -->
+  <path d="M6 20 L8 14 L24 14 L26 20 Z" fill="#1E4D8C"/>
+  <path d="M5 20 L27 20 L25 23 L7 23 Z" fill="#1E4D8C"/>
+  <!-- Superstructure -->
+  <rect x="12" y="10" width="8" height="4" rx="1" fill="#E8F4F8"/>
+  <!-- Funnel / mast -->
+  <rect x="15" y="6" width="2" height="5" rx="0.5" fill="#E8500A"/>
+  <!-- Wave -->
+  <path d="M4 24 Q8 22 12 24 Q16 26 20 24 Q24 22 28 24" stroke="#E8F4F8" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+</svg>
