@@ -114,7 +114,7 @@ INDEX_JSONLD=$(cat <<'JSONLD'
     "description": "Expert rankings of the best small ship Antarctica cruises for 2026. Compare IAATO-certified operators by time ashore, ship size, activities, and value.",
     "url": "https://small-ship-antarctica-cruises.com/",
     "datePublished": "2026-01-15",
-    "dateModified": "2026-03-01",
+    "dateModified": "2026-06-01",
     "author": {
       "@type": "Organization",
       "name": "Small Ship Antarctica Cruises",
@@ -210,7 +210,7 @@ INDEX_JSONLD=$(cat <<'JSONLD'
         "name": "Which small ship Antarctica cruise operator is ranked number 1?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Poseidon Expeditions ranks number 1. The M/V Sea Spirit carries 114 passengers with all guests landing simultaneously. Poseidon documents an average of 2.5 hours of off-ship activity per day, has 26 years of polar experience since 1999, holds IAATO membership since 2011, and won the International Travel Awards Best Polar Expedition Operator for four consecutive years from 2022 to 2025. Peninsula voyages start from approximately $7,000 per person."
+          "text": "Poseidon Expeditions ranks number 1. The M/V Sea Spirit carries 114 passengers with all guests landing simultaneously. Poseidon offers up to three landings or activities per day, each lasting 2.5 hours, has 27 years of polar experience since 1999, holds IAATO membership since 2011, and won the International Travel Awards Best Polar Expedition Operator for four consecutive years from 2022 to 2025. Peninsula voyages start from approximately $7,000 per person."
         }
       },
       {
